@@ -1,0 +1,162 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    font-family: caveat;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+h1:hover{
+    color: gray;
+}
+.header{
+    position:relative
+}
+.header-text{
+    position: absolute;
+    top:5%;
+    color: black;
+    padding-left: 250px;
+}
+p{
+font-size: 23px;
+margin: 10px;
+}
+#product{
+    margin: 20px;
+}
+#what{
+    margin: 20px;
+}
+ul{
+    font-size: 22px;
+    margin-left: 40px;
+}
+#video{
+    margin-left:200px;
+    margin-top: 40px;
+}
+.one{
+    border: 2px black solid;
+    width: 200px;
+    display:inline-block;
+    margin:22px;
+    padding: 1px;
+}
+button{
+    background-color:rgb(48, 192, 211);
+    padding: 10px;
+    margin-left: 30px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.one:hover{
+    background-color:black;
+}
+p{
+    margin-left: 30px;
+}
+.two{
+    border: 2px black solid;
+    width: 200px;
+    display:inline-block;
+    margin: 20px;
+    padding: 1px;
+}
+.two:hover{
+    background-color:black;
+}
+.three{
+    border: 2px black solid;
+    width: 200px;
+    display:inline-block;
+    margin:5px;
+    margin-left: 10px;
+    padding: 1px;
+}
+.but{
+    background-color:rgb(48, 192, 211);
+    padding: 10px;
+    margin-left: 60px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.header1{
+    position:relative
+}
+.header-text1{
+    position: absolute;
+    top:5%;
+    color: black;
+    padding-left: 80px;
+}
+.three:hover{
+    background-color: black;
+}
+.four{
+    border: 2px black solid;
+    width: 200px;
+    display:inline-block;
+    margin:5px;
+    margin-left: 10px;
+    padding: 1px;
+    margin-left: 550px;
+}
+.four:hover{
+    background-color: black;
+}
+.but1{
+    background-color:rgb(48, 192, 211);
+    padding: 10px;
+    margin-left: 56px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.five{
+    border: 2px black solid;
+    width: 200px;
+    display:inline-block;
+    margin:5px;
+    margin-left: 10px;
+    padding: 1px;
+}
+.five:hover{
+    background-color: black;
+}
+.six{
+    border: 2px black solid;
+    width: 200px;
+    display:inline-block;
+    margin:5px;
+    margin-left: 10px;
+    padding: 1px;
+}
+.six:hover{
+    background-color: black;
+}
+.seven{
+    border: 2px black solid;
+    width: 200px;
+    display:inline-block;
+    margin:5px;
+    padding: 1px;
+}
+.seven:hover{
+    background-color: black;
+}
+.contact{
+    background-color:black;
+    border: 2px black solid;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+    text-align: center;
+}
+.contact:hover{
+    color: gray;
+}
